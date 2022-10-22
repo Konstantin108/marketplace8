@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<goods>
+    <good>
+        <id>1323</id>
+        <name>Кофта красная</name>
+        <price>1185</price>
+        <info>Состав: вискоза 68%, нейлон 27%, спандекс 5%</info>
+        <counter>1</counter>
+        <category>Свитера и трикотаж</category>
+        <brand>AVAGURA</brand>
+        <designer>Кристиан Диор</designer>
+        <size>XS</size>
+        <sex>Ж</sex>
+        <sale>0</sale>
+        <img>goods/good01.jpg</img>
+    </good>
+    <good>
+        <id>12366</id>
+        <name>Женская блузка</name>
+        <price>3970</price>
+        <info>Состав: акрил 100%</info>
+        <counter>1</counter>
+        <category>Свитера и трикотаж</category>
+        <brand>VOMNE</brand>
+        <designer>Кристиан Диор</designer>
+        <size>XL</size>
+        <sex>Ж</sex>
+        <sale>1</sale>
+        <img>goods/good02.jpg</img>
+    </good>
+    <good>
+        <id>655</id>
+        <name>Кофта женская в полоску</name>
+        <price>2181</price>
+        <info>Полоска актуальна и в сезон ВЕСНА ЛЕТО Мы создали для Вас новинку кофту женскую в полоску в самых
+            трендовых цветах классическом чернои и модном ярком синем или цвете электрик
+        </info>
+        <counter>1</counter>
+        <category>Свитера и трикотаж</category>
+        <brand>Delin</brand>
+        <designer>Кристиан Диор</designer>
+        <size>L</size>
+        <sex>Ж</sex>
+        <sale>0</sale>
+        <img>goods/good03.jpg</img>
+    </good>
+    <good>
+        <id>3456</id>
+        <name>Пиджак мужской классический</name>
+        <price>6633</price>
+        <info>Состав: вискоза 28%, полиэстер 34%, шерсть 35%, лайкра 3%</info>
+        <counter>1</counter>
+        <category>Свитера и трикотаж</category>
+        <brand>Daniel Diaz</brand>
+        <designer>Кристиан Диор</designer>
+        <size>L</size>
+        <sex>М</sex>
+        <sale>0</sale>
+        <img>goods/good04.jpg</img>
+    </good>
+    <good>
+        <id>987</id>
+        <name>Мужские штаны карго</name>
+        <price>2573</price>
+        <info>Состав: полиэстер 65%, твил-хлопок 35%</info>
+        <counter>1</counter>
+        <category>Брюки</category>
+        <brand>Jogger Street</brand>
+        <designer>Джорджио Армани</designer>
+        <size>L</size>
+        <sex>М</sex>
+        <sale>1</sale>
+        <img>goods/good05.jpg</img>
+    </good>
+    <good>
+        <id>3244</id>
+        <name>Толстовка мужская с капюшоном</name>
+        <price>2090</price>
+        <info>Толстовка на молнии мужская и женские (унисекс) оверсайз Sella ST утепленная толстовка есть больших
+            размеров. Теплая изнанка с начесом делает ее идеальным решением для повседневной носки, двухслойный капюшон
+            на шнурке и карманом кенгуру толстовка большого размера толстовки с начесом
+        </info>
+        <counter>1</counter>
+        <category>Толстовки с капюшоном и свитера</category>
+        <brand>STELLA ST</brand>
+        <designer>Джорджио Армани</designer>
+        <size>L</size>
+        <sex>М</sex>
+        <sale>0</sale>
+        <img>goods/good06.jpg</img>
+    </good>
+    <good>
+        <id>465</id>
+        <name>Толстовка мужская женская флисовая</name>
+        <price>3379</price>
+        <info>Флисовая толстовка в свободном стиле!Мягкая,комфортнаяи стильная!Такая одежда всегда в тренде и моде,тк
+            это отличная и удобная одежда на каждый день!
+        </info>
+        <counter>1</counter>
+        <category>Толстовки с капюшоном и свитера</category>
+        <brand>21problem</brand>
+        <designer>Иван Каляев</designer>
+        <size>L</size>
+        <sex>М</sex>
+        <sale>1</sale>
+        <img>goods/good07-1.jpg</img>
+    </good>
+    <good>
+        <id>345</id>
+        <name>Пиджак мужской</name>
+        <price>7355</price>
+        <info>Состав: вискоза 30%, полиэстер 50%, акрил 20%</info>
+        <counter>1</counter>
+        <category>Куртки и пальто</category>
+        <brand>ROYALSPIRIT</brand>
+        <designer>Джорджио Армани</designer>
+        <size>L</size>
+        <sex>М</sex>
+        <sale>0</sale>
+        <img>goods/good08.jpg</img>
+    </good>
+    <good>
+        <id>34115</id>
+        <name>Куртка мужская демисезонная</name>
+        <price>5516</price>
+        <info>Тёплая куртка из плотного материала</info>
+        <counter>1</counter>
+        <category>Куртки и пальто</category>
+        <brand>STARK MEN</brand>
+        <designer>Иван Каляев</designer>
+        <size>L</size>
+        <sex>М</sex>
+        <sale>0</sale>
+        <img>goods/good09.jpg</img>
+    </good>
+    <good>
+        <id>3411145</id>
+        <name>Футболка мужская хлопок</name>
+        <price>849</price>
+        <info>Мужская футболка из натурального хлопка прямого кроя, выполнена из качественного дышащего трикотажа
+            приятного к телу. За счет свободного кроя отлично подойдет как для занятий спортом, прогулок, поездок, так и
+            в качестве домашней одежды.
+        </info>
+        <counter>1</counter>
+        <category>Футболки</category>
+        <brand>Bossa Nova</brand>
+        <designer>Джорджио Армани</designer>
+        <size>L</size>
+        <sex>М</sex>
+        <sale>0</sale>
+        <img>goods/good10.jpg</img>
+    </good>
+    <good>
+        <id>34516</id>
+        <name>Бомбер мужской</name>
+        <price>4399</price>
+        <info>Куртка бомбер мужская отличный вариант верхней одежды на лето и осень 2022 года. Бомбер Hector выполнена
+            из высококачественных материалов
+        </info>
+        <counter>1</counter>
+        <category>Куртки и пальто</category>
+        <brand>Hector</brand>
+        <designer>Валентин Юдашкин</designer>
+        <size>L</size>
+        <sex>М</sex>
+        <sale>0</sale>
+        <img>goods/good11.jpg</img>
+    </good>
+    <good>
+        <id>345363</id>
+        <name>Футболка белая</name>
+        <price>259</price>
+        <info>Состав: Хлопок - 100%, плотность 180 гр./м2, производство: Россия</info>
+        <counter>1</counter>
+        <category>Футболки</category>
+        <brand>UZcotton</brand>
+        <designer>Джорджио Армани</designer>
+        <size>L</size>
+        <sex>М</sex>
+        <sale>1</sale>
+        <img>goods/good12.jpg</img>
+    </good>
+    <good>
+        <id>32245</id>
+        <name>Футболка серая, хлопок</name>
+        <price>930</price>
+        <info>Состав: хлопок, лайкра</info>
+        <counter>1</counter>
+        <category>Футболки</category>
+        <brand>WinSport</brand>
+        <designer>Джорджио Армани</designer>
+        <size>L</size>
+        <sex>М</sex>
+        <sale>0</sale>
+        <img>goods/good13.jpg</img>
+    </good>
+</goods>
