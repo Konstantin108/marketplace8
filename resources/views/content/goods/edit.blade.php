@@ -63,6 +63,7 @@
                                style="position: absolute; left: 470px; top: 266px;"
                         >
                         <script>
+                            
                             let control = document.querySelector(".img-file"),
                                 clearBn = document.querySelector("#clear");
                             clearBn.addEventListener("click", function () {
